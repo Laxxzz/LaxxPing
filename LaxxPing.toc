@@ -1,0 +1,13 @@
+## Interface: 120100
+## Title: LaxxPing
+## Notes: Hold a key, left-click to open a ping wheel at your cursor, flick to choose, release to send. Pings target the environment only.
+## Author: Laxxe
+## Version: 0.1.0
+## SavedVariables: LaxxPingDB
+## AddonCompartmentFunc: LaxxPing_OnCompartmentClick
+
+# Bindings.xml is auto-loaded from the addon root and must NOT be listed here,
+# or every <Binding> in it registers twice.
+
+LaxxPing.lua
+LaxxPing_Options.lua

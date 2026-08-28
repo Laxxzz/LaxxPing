@@ -1,0 +1,11 @@
+# WoW writes these into a deployed copy, never into the source tree.
+*.bak
+*.orig
+*.tmp
+
+# Editor / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
